@@ -1,7 +1,7 @@
  <h1 align="center">Hi, I'm Anurag 👋</h1>
 
 <p align="center">
-  <strong>Software Developer</strong> &nbsp;|&nbsp; Competitive Programmer &nbsp;|&nbsp; Problem Solver
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Software+Developer;Competitive+Programmer;Java+%7C+React+%7C+Spring+Boot;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,6 +12,10 @@
   <a href="https://leetcode.com/u/anurag_ujjwal/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragujjwal90&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -49,12 +53,24 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anuragujjwal90&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragujjwal90&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Anurag's GitHub Stats" height="160" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragujjwal90&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anuragujjwal90&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -64,23 +80,28 @@
 - 🔗 Solving problems consistently on [LeetCode](https://leetcode.com/u/anurag_ujjwal/)
 - Focus areas: Arrays, Trees, Graphs, Dynamic Programming, Recursion
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anurag_ujjwal?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragujjwal90&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuragujjwal90/anuragujjwal90/output/github-snake.svg" alt="snake animation" />
+</p>
+
 ---
 
 <p align="center">
   <i>Open to full-time roles and internships in Software Engineering. Let's connect!</i>
 </p>
-
-<!--
-**anuragujjwal90/anuragujjwal90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
