@@ -20,7 +20,7 @@
 
 - 🔭 &nbsp;Actively looking for my first Software Engineering role
 - 💡 &nbsp;Strong foundation in **Data Structures & Algorithms** with a competitive programming background
-- 🛠️ &nbsp;I build with **Java**, **JavaScript/TypeScript**, **React**, **Node.js**, **Spring Boot**, and **C++**
+- 🛠️ &nbsp;I build with **Java**, **Python**,**JavaScript/TypeScript**, **React**, **Node.js**, **Spring Boot**, and **C++**
 - 🧩 &nbsp;I enjoy breaking down hard problems — on LeetCode and in real systems
 - 📬 &nbsp;Reach me via [LinkedIn](https://linkedin.com/in/anurag-u-699162290)
 
